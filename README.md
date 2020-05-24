@@ -1,2 +1,2 @@
 # algos
-Algorithm implementaions 
+Algorithm implementaions from The Algorithm Design Manual
